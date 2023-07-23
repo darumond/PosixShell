@@ -1,0 +1,1 @@
+for i in jason samy luc jonas; do echo $i; done

@@ -1,0 +1,1 @@
+! echo bonjour | cat -e || echo toto && echo oui || cat non | echo fini || while false;do echo oui;done

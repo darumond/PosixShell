@@ -1,0 +1,73 @@
+add_library(42sh2 STATIC
+    io_backend/io_backend.c
+    io_backend/io_backend.h
+    lexer/lexer.c
+    lexer/lexer.h
+    parser/ast.c
+    parser/ast.h
+    tools/tools.c
+    tools/tools.h
+    main.c
+    tools/utils.c
+    tools/utils.h
+    exec/exec.c
+    exec/exec.h
+    builtin/builtin.c
+    builtin/builtin.h
+	parser/parse_negation.c
+	parser/parse_negation.h
+	expand/expand.c
+	expand/expand.h
+	expand/expand_basic.c
+	expand/expand_basic.h
+	expand/expand_var.c
+	expand/expand_var.h
+	expand/expand_var_arobase.c
+	expand/expand_var_arobase.h
+	parser/parse_if.c
+    parser/parse_if.h
+    parser/parse_and_or.c
+    parser/parse_and_or.h
+    parser/parse_compoundlist.c
+    parser/parse_compoundlist.h
+    parser/parse_list.c
+    parser/parse_list.h
+    parser/parse_pipeline.c
+    parser/parse_pipeline.h
+    parser/parse_redirection.c
+    parser/parse_redirection.h
+    parser/parse_simple_command.c
+    parser/parse_simple_command.h
+    parser/parse_until.c
+    parser/parse_until.h
+    parser/parse_while.c
+    parser/parse_while.h
+    parser/parse_for.c
+    parser/parse_for.h
+    parser/parse_func.c
+    parser/parse_func.h
+	exec/exec_header.h
+    exec/exec_redirection.c
+    exec/exec_redirection.h
+	exec/exec_variable.c
+	exec/exec_variable.h
+	exec/exec_pipe.c
+	exec/exec_pipe.h
+	exec/hash_map.c
+	exec/hash_map.h
+	exec/exec_if.c
+	exec/exec_if.h
+    exec/exec_and_or.c
+	exec/exec_and_or.h
+    exec/hash_map_func.c
+    exec/hash_map_func.h
+    exec/exec_function.c 
+    exec/exec_function.h
+)
+
+target_link_libraries(42sh2 PUBLIC
+    common_options
+)
+
+target_include_directories(42sh2 PUBLIC .
+../tools)

@@ -1,0 +1,7 @@
+echo toto || 
+
+
+
+
+
+echo bonjour

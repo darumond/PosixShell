@@ -1,0 +1,1 @@
+echo eqweq qeqwe qewwqe qewq | cat -e

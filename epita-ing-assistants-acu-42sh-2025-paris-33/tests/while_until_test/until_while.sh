@@ -1,0 +1,1 @@
+until while false;do echo oui;done;do echo non;done

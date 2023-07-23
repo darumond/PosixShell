@@ -1,0 +1,1 @@
+ls < simple_test

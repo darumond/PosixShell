@@ -1,0 +1,1 @@
+Variable=12;b=5 echo ${Variable}jonas

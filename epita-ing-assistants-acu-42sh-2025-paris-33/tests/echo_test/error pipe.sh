@@ -1,0 +1,1 @@
+echo no negation after this  | ! cat -e 

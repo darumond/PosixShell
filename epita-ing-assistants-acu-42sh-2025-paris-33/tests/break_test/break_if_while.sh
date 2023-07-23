@@ -1,0 +1,1 @@
+while /bin/true ;do if /bin/true ;then echo oui;break;echo non;fi;echo oui2;done

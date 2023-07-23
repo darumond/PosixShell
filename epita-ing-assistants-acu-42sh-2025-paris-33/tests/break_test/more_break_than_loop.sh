@@ -1,0 +1,1 @@
+while true;do echo oui;break 2;done

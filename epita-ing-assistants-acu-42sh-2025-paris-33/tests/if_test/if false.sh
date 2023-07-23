@@ -1,0 +1,1 @@
+if false;then echo oui1;elif true;then echo oui2;fi;

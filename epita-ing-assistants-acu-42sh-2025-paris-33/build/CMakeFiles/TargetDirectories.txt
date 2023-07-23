@@ -1,0 +1,6 @@
+/home/luc/Prog/C/Projects/42sh/epita-ing-assistants-acu-42sh-2025-paris-33/build/CMakeFiles/42sh.dir
+/home/luc/Prog/C/Projects/42sh/epita-ing-assistants-acu-42sh-2025-paris-33/build/CMakeFiles/edit_cache.dir
+/home/luc/Prog/C/Projects/42sh/epita-ing-assistants-acu-42sh-2025-paris-33/build/CMakeFiles/rebuild_cache.dir
+/home/luc/Prog/C/Projects/42sh/epita-ing-assistants-acu-42sh-2025-paris-33/build/src/CMakeFiles/42sh2.dir
+/home/luc/Prog/C/Projects/42sh/epita-ing-assistants-acu-42sh-2025-paris-33/build/src/CMakeFiles/edit_cache.dir
+/home/luc/Prog/C/Projects/42sh/epita-ing-assistants-acu-42sh-2025-paris-33/build/src/CMakeFiles/rebuild_cache.dir

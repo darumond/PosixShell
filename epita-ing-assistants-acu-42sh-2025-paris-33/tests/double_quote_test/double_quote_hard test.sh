@@ -1,0 +1,1 @@
+echo "zai izjfoffpfuzfyuioiuytryun \\\\\\\\\\\\\\\\   \\\\\\\\\\\\\`  rzrezer  \\\\\\\\\\\$  zadhpazuhdpuiazhpuiahp"
